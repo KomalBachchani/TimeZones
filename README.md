@@ -42,3 +42,8 @@ Get-CommonTimeZone [-Name <String>] [-Offset <Float>] [CommonParameters]
 Get-CommonTimeZone -Offset 9.5 | Format-Table        
 Get-CommonTimeZone -Name Asia | Format-Table
 
+**HELP DOCUMENTATION**
+
+Get-Help Get-CommonTimeZone  
+Get-Help Get-CommonTimeZone -Examples  
+
